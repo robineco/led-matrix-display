@@ -86,4 +86,7 @@
   height: 4vh;
   cursor: pointer;
 }
+.pixel:hover {
+  filter: brightness(80%);
+}
 </style>
