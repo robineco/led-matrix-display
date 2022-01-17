@@ -2,6 +2,7 @@
 led-matrix-frontend/node_modules
 /dist
 
+*.pyc
 
 # local env files
 .env.local
