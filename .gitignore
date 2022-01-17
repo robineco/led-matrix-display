@@ -2,6 +2,9 @@
 led-matrix-frontend/node_modules
 /dist
 
+
+/led-matrix-backend/*.png
+/led-matrix-backend/*.jpg
 *.pyc
 
 # local env files
